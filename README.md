@@ -14,8 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hi, I'm Al Nahian, also known as Abdullah Al Nahian! wave <br>
-fire I'm 17 Year's Old Freelance FullStack Web Developer and Learning New Things Daily. I'm so passionate about what I do ♥. <br>
-⚡ Favorite Languages: JavaScript, React, PHP, NodeJS ... <br>
-email a.alnahian2003@gmail.com <br>
-art Portfolio: https://alnahian.xyz <br>
+- ✨ Hi, I'm Al Nahian, also known as Abdullah Al Nahian!
+- 🔥 I'm 17 Year's Old Freelance FullStack Web Developer Based in Bangladesh and Learning New Things Everyday.
+- 😄 I'm so much passionate about what I do ♥.
+- ⚡ Favorite Languages: JavaScript, React, PHP, NodeJS ...
+- 📧 Email me at: a.alnahian2003@gmail.com
+- 🎨 Portfolio: https://alnahian.xyz 
