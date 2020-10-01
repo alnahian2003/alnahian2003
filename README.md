@@ -8,4 +8,5 @@
 ⚡ Favorite Languages: JavaScript, React, PHP, NodeJS ... <br>
 📧 <a href="mailto: a.alnahian2003@gmail.com"> Mail Me </a> <br>
 🎨 Portfolio: https://alnahian.xyz <br>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=alnahian2003&label=Views&color=brightgreen&style=plastic" alt="alnahian2003" /> </p>
 </p>
