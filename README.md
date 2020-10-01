@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="https://facebook.com/alnahian2003">
-    <img src="https://img.shields.io/badge/-alnahian2003-1877F2?style=flat&labelColor=1877F2&logo=facebook&logoColor=white&link=https://facebook.com/alnahian2003">
+    <img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat&labelColor=1877F2&logo=facebook&logoColor=white&link=https://facebook.com/alnahian2003">
   </a>
   
   <img src="https://img.shields.io/badge/-@alnahian2003-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/alnahian2003">
