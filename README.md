@@ -11,10 +11,9 @@
 </p>
 
 <p align="center">
-<img href="https://facebook.com/alnahian2003" src="https://img.shields.io/badge/-alnahian2003-1877F2?style=flat-square&labelColor=1877F2&logo=facebook&logoColor=white&link=https://facebook.com/alnahian2003">
-<img src="https://img.shields.io/badge/-@alnahian2003-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/alnahian2003">
-<img src="https://img.shields.io/badge/-alnahian2003-1877F2?style=flat-square&labelColor=053eff&logo=behance&logoColor=white&link=https://behance.net/alnahian2003">
-<img src="https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:a.alnahian2003@gmail.com">
-<img src="https://komarev.com/ghpvc/?username=alnahian2003&label=Views&color=brightgreen&style=flat-square" alt="alnahian2003" />
-</p>
-<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/alnahian2003?style=social">
+<img href="https://facebook.com/alnahian2003" src="https://img.shields.io/badge/-alnahian2003-1877F2?style=social&labelColor=1877F2&logo=facebook&logoColor=white&link=https://facebook.com/alnahian2003">
+<img src="https://img.shields.io/badge/-@alnahian2003-1ca0f1?style=social&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/alnahian2003">
+<img src="https://img.shields.io/badge/-alnahian2003-1877F2?style=social&labelColor=053eff&logo=behance&logoColor=white&link=https://behance.net/alnahian2003">
+<img src="https://img.shields.io/badge/-Email-c14438?style=social&logo=Gmail&logoColor=white&link=mailto:a.alnahian2003@gmail.com">
+<img src="https://komarev.com/ghpvc/?username=alnahian2003&label=Views&color=brightgreen&style=social" alt="alnahian2003" />
+</p
