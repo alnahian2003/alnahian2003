@@ -11,10 +11,19 @@
 </p>
 
 <p align="center">
-<img href="https://facebook.com/alnahian2003" src="https://img.shields.io/badge/-alnahian2003-1877F2?style=flat&labelColor=1877F2&logo=facebook&logoColor=white&link=https://facebook.com/alnahian2003">
-<img src="https://img.shields.io/badge/-@alnahian2003-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/alnahian2003">
-<img src="https://img.shields.io/badge/-alnahian2003-1877F2?style=flat&labelColor=053eff&logo=behance&logoColor=white&link=https://behance.net/alnahian2003">
-<img src="https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:a.alnahian2003@gmail.com">
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/alnahian2003?label=Github&style=flat">
-<img src="https://komarev.com/ghpvc/?username=alnahian2003&label=Views&color=brightgreen&style=flat" alt="alnahian2003" />
+  <a href="https://facebook.com/alnahian2003">
+    <img src="https://img.shields.io/badge/-alnahian2003-1877F2?style=flat&labelColor=1877F2&logo=facebook&logoColor=white&link=https://facebook.com/alnahian2003">
+  </a>
+  
+  <img src="https://img.shields.io/badge/-@alnahian2003-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/alnahian2003">
+  
+  <img src="https://img.shields.io/badge/-alnahian2003-1877F2?style=flat&labelColor=053eff&logo=behance&logoColor=white&link=https://behance.net/alnahian2003">
+  
+  <img src="https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:a.alnahian2003@gmail.com">
+  
+  <img alt="GitHub followers" src="https://img.shields.io/github/followers/alnahian2003?label=Github&style=flat">
+  
+  <a href="">
+  <img src="https://komarev.com/ghpvc/?username=alnahian2003&label=Views&color=brightgreen&style=flat" alt="alnahian2003" />
+  </a>
 </p
