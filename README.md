@@ -19,7 +19,7 @@
     <img src="https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/alnahian2003">
   </a>
   <a href="https://behance.net/alnahian2003">
-    <img src="https://img.shields.io/badge/-Behance-1877F2?style=flat&labelColor=053eff&logo=behance&logoColor=white&link=https://behance.net/alnahian2003">
+    <img src="https://img.shields.io/badge/-Behance-053eff?style=flat&labelColor=053eff&logo=behance&logoColor=white&link=https://behance.net/alnahian2003">
   </>
   <a href="mailto:a.alnahian2003@gmail.com?subject=Hello Dear Al Nahian! I send this message from your Github Profile. I need to talk to you!">
     <img src="https://img.shields.io/badge/-Mail Me-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:a.alnahian2003@gmail.com">
