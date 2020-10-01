@@ -17,3 +17,4 @@
 <img src="https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:a.alnahian2003@gmail.com">
 <img src="https://komarev.com/ghpvc/?username=alnahian2003&label=Views&color=brightgreen&style=flat-square" alt="alnahian2003" />
 </p>
+<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/alnahian2003?style=social">
