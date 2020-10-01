@@ -1,7 +1,7 @@
 <p align="center">
 <img src="https://static.dribbble.com/users/730703/screenshots/6581243/avento.gif">
 </p>
-<h3 align="center">Hi there, I'm <h2> Al Nahian</h2>, also known as Abdullah Al Nahian! 👋 </h3>
+<h3 align="center">Hi there, I'm Al Nahian, also known as Abdullah Al Nahian! 👋 </h3>
 <p align="center">
 🔥 I'm 17 Year's Old Freelance FullStack Web Developer Based in Bangladesh and Learning New Things Everyday. <br>
 😄 I'm so much passionate about what I do ♥. <br>
