@@ -10,8 +10,10 @@
 🎨 Portfolio: https://alnahian.xyz <br>
 </p>
 
+<center>
 <img src="https://img.shields.io/badge/-alnahian2003-1877F2?style=plastic&labelColor=1877F2&logo=facebook&logoColor=white&link=https://facebook.com/alnahian2003">
 <img src="https://img.shields.io/badge/-@alnahian2003-1ca0f1?style=plastic&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/alnahian2003">
 <img src="https://img.shields.io/badge/-alnahian2003-1877F2?style=plastic&labelColor=053eff&logo=behance&logoColor=white&link=https://behance.net/alnahian2003">
 <img src="https://img.shields.io/badge/-Email-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:a.alnahian2003@gmail.com">
 <img src="https://komarev.com/ghpvc/?username=alnahian2003&label=Views&color=brightgreen&style=plastic" alt="alnahian2003" />
+</center>
