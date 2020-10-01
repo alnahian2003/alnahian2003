@@ -27,5 +27,7 @@
   <a href="https://github.com/alnahian2003">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/alnahian2003?label=Github&style=flat">
   </a>
-  <img src="https://komarev.com/ghpvc/?username=alnahian2003&label=Views&color=brightgreen&style=flat" alt="alnahian2003" />
+  <a href="https://github.com/alnahian2003">
+    <img src="https://komarev.com/ghpvc/?username=alnahian2003&label=Views&color=brightgreen&style=flat" alt="alnahian2003" />
+  </a>
 </p
