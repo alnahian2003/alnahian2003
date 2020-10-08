@@ -9,23 +9,23 @@
 </p>
 
 <p align="center">
-  <a href="https://facebook.com/alnahian2003">
+  <a href="https://facebook.com/alnahian2003" target="_blank">
     <img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat&labelColor=1877F2&logo=facebook&logoColor=white&link=https://facebook.com/alnahian2003">
   </a>
   
-  <a href="https://twitter.com/alnahian2003">
+  <a href="https://twitter.com/alnahian2003" target="_blank">
     <img src="https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/alnahian2003">
   </a>
-  <a href="https://behance.net/alnahian2003">
+  <a href="https://behance.net/alnahian2003" target="_blank">
     <img src="https://img.shields.io/badge/-Behance-053eff?style=flat&labelColor=053eff&logo=behance&logoColor=white&link=https://behance.net/alnahian2003">
   </>
-  <a href="mailto:a.alnahian2003@gmail.com?subject=Hello Dear Al Nahian! I send this message from your Github Profile. I need to talk to you!">
+  <a href="mailto:a.alnahian2003@gmail.com?subject=Hello Dear Al Nahian! I send this message from your Github Profile. I need to talk to you!" target="_blank">
     <img src="https://img.shields.io/badge/-Mail Me-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:a.alnahian2003@gmail.com">
   </a>
-  <a href="https://github.com/alnahian2003">
+  <a href="https://github.com/alnahian2003" target="_blank">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/alnahian2003?label=Github&style=flat">
   </a>
-  <a href="https://github.com/alnahian2003">
+  <a href="https://github.com/alnahian2003" target="_blank">
     <img src="https://komarev.com/ghpvc/?username=alnahian2003&label=Views&color=brightgreen&style=flat" alt="alnahian2003" />
   </a>
 </p
