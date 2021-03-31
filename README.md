@@ -3,9 +3,8 @@
 </p>
 <h2 align="center">Hi there, I'm Al Nahian, also known as Abdullah Al Nahian! 👋 </h2>
 <p align="center">
-🔥 I'm 17 Year's Old Freelance FrontEnd Web Developer Based in Bangladesh and Learning New Things Everyday. <br>
-😄 I'm so much passionate about what I do ♥. <br>
-⚡ My Favourites: HTML, CSS, JavaScript, jQuery, Bootstrap, React, PHP, NodeJS, MySQL, MongoDB... <br>
+🔥 I'm a 18 Year's Old Freelance FullStack Web Developer Based in Bangladesh and Learning New Things Everyday. <br>
+⚡ My Favourites: HTML, CSS, JavaScript, jQuery, Bootstrap, React, PHP, Laravel, NodeJS, MySQL, MongoDB... <br>
   <a href="https://www.behance.net/gallery/112507777/Find-Me-on-Google-Mockup-For-Photoshop" target="_blank">
     <img src="https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/cfd7d0112507777.6015ba1b80a5c.png">
   </a>
@@ -30,5 +29,8 @@
   </a>
   <a href="https://github.com/alnahian2003" target="_blank">
     <img src="https://komarev.com/ghpvc/?username=alnahian2003&label=Views&color=brightgreen&style=flat" alt="alnahian2003" />
+  </a>
+  <a href="https://alnahian2003.github.io" target="_blank">
+    <img alt="Visit Portfolio" src="https://img.shields.io/badge/Visit-Portfolio-brightgreen&style=flat">
   </a>
 </p
