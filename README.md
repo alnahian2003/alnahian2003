@@ -4,7 +4,8 @@
 <h2 align="center">Hi there, I'm Al Nahian, also known as Abdullah Al Nahian! 👋 </h2>
 <p align="center">
 🔥 I'm a 18 Year's Old Freelance FullStack Web Developer Based in Bangladesh and Learning New Things Everyday. <br>
-⚡ My Favourites: HTML, CSS, JavaScript, jQuery, Bootstrap, React, PHP, Laravel, NodeJS, MySQL, MongoDB... <br>
+⚡ My Favourites: HTML, CSS, JavaScript, jQuery, Bootstrap, React, PHP, Laravel, NodeJS, MySQL, MongoDB... <br><br>
+  [![Al Nahian's GitHub stats](https://github-readme-stats.vercel.app/api?username=alnahian2003)](https://github.com/alnahian2003)
   <a href="https://www.behance.net/gallery/112507777/Find-Me-on-Google-Mockup-For-Photoshop" target="_blank">
     <img src="https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/cfd7d0112507777.6015ba1b80a5c.png">
   </a>
