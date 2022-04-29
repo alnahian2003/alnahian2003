@@ -5,6 +5,11 @@
 <p align="center">
 🔥 I'm a 18 Year's Old Freelance FullStack Web Developer Based in Bangladesh and Learning New Things Everyday. <br>
 ⚡ My Favourites: HTML, CSS, JavaScript, jQuery, Bootstrap, React, PHP, Laravel, NodeJS, MySQL, MongoDB... <br><br>
+  
+<p><img src="https://github-readme-stats.vercel.app/api?username=alnahian2003&amp;show_icons=true&amp;theme=vue&amp;include_all_commits=true" alt="Al Nahian&#39;s GitHub stats"></p>
+<p><a href="https://github.com/alnahian2003/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alnahian2003&amp;show_icons=true&amp;theme=vue&amp;layout=compact" alt="Top Langs"></a></p>
+
+  
   <a href="https://www.behance.net/gallery/112507777/Find-Me-on-Google-Mockup-For-Photoshop" target="_blank">
     <img src="https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/cfd7d0112507777.6015ba1b80a5c.png">
   </a>
