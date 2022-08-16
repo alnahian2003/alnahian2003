@@ -3,7 +3,7 @@
 </p>
 <h1 align="center">Howdy 👋, I'm Al Nahian! </h1>
 <h4 align="center">
-🔥 Freelance FullStack Developer Based in Bangladesh :bangladesh: and Learning New Things Everyday.
+🔥 I'm a Passionate Freelance FullStack Developer based in <span><img src="https://images.emojiterra.com/google/noto-emoji/v2.034/128px/1f1e7-1f1e9.png" width="16"></span> Bangladesh and learning new things everyday.
 </h4>
 
 
