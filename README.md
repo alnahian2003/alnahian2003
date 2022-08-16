@@ -2,9 +2,9 @@
 <img src="https://static.dribbble.com/users/730703/screenshots/6581243/avento.gif">
 </p>
 <h1 align="center">Howdy 👋, I'm Al Nahian! </h1>
-<h4 align="center">
-🔥 I'm a Passionate Freelance FullStack Developer based in <span><img src="https://images.emojiterra.com/google/noto-emoji/v2.034/128px/1f1e7-1f1e9.png" width="16"></span> Bangladesh and learning new things everyday.
-</h4>
+<p align="center">
+🔥 I'm a passionate Freelance FullStack Developer based in <span><img src="https://images.emojiterra.com/google/noto-emoji/v2.034/128px/1f1e7-1f1e9.png" width="16"></span> Bangladesh and learning new things everyday.
+</p>
 
 
 <h3 align="center">⚡ My Favourite Languages and Tools:</h3>
@@ -71,4 +71,12 @@
   <a href="https://alnahian2003.github.io" target="_blank">
     <img alt="Visit Portfolio" src="https://img.shields.io/badge/Visit-Portfolio-brightgreen&style=flat" height="30">
   </a>
-</p
+</p>
+
+<div align="center">
+<hr>
+<h3>Wanna Hear a Joke, Buddy? 😜</h3>
+<a href="https://github.com/ABSphreak/readme-jokes">
+<img src="https://readme-jokes.vercel.app/api?theme=blueberry" alt="Jokes Card" />
+</a>
+</div>
