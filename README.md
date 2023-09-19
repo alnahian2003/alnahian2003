@@ -1,7 +1,12 @@
+<!--
 <p align="center">
-<!-- <img src="https://static.dribbble.com/users/730703/screenshots/6581243/avento.gif"> -->
+<img src="https://static.dribbble.com/users/730703/screenshots/6581243/avento.gif">
 <img src="https://user-images.githubusercontent.com/61485238/191235891-c55aed06-3675-472c-b3c5-736bdad41126.jpg" alt="alnahian2003_cover">
 </p>
+-->
+
+![Cover](https://github.com/alnahian2003/alnahian2003/assets/61485238/4fe0e2e6-f4e4-4f86-b4e1-2a293e61d55c)
+
 <h1 align="center">Howdy 👋, I'm Al Nahian! </h1>
 <p align="center">
 🔥 I'm a passionate Freelance FullStack Developer based in <span><img src="https://images.emojiterra.com/google/noto-emoji/v2.034/128px/1f1e7-1f1e9.png" width="16"></span> Bangladesh and learning new things everyday.
