@@ -53,8 +53,8 @@
 <br>
 -->
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=alnahian2003&amp;show_icons=true&amp;theme=vue&amp;include_all_commits=true" alt="Al Nahian&#39;s GitHub stats" width="600"></p>
-</p>
+<!-- <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=alnahian2003&amp;show_icons=true&amp;theme=vue&amp;include_all_commits=true" alt="Al Nahian&#39;s GitHub stats" width="600"></p>
+</p> -->
 
 <p align="center">
   <a href="https://facebook.com/alnahian2003" target="_blank">
